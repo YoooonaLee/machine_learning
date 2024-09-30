@@ -1,2 +1,2 @@
-# machine_learning
-majour subject.... ML of physics
+# machine_learning 
+ML of physics
